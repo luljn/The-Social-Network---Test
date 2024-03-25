@@ -1,0 +1,8 @@
+page de connexion 
+page d'inscription 
+page d'accueil (home page)
+page de notifications
+page de messagerie
+page de profil
+page personnel
+page 404 
