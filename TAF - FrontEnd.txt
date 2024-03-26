@@ -6,3 +6,7 @@ page de messagerie
 page de profil
 page personnel
 page 404 
+
+
+N.B : en fonction de si l'utilisateur est connecté ou pas; il ne voit pas les mêmes éléments
+    --> Nav bar différente,
