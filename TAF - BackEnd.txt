@@ -1,0 +1,1 @@
+Faire les traitements pour récupérer les follows, les posts, les commentaires, les notifs d'un utilisateurs côté BDD.
